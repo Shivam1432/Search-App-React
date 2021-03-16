@@ -1,2 +1,2 @@
-# Search-App-React
+# BMI-Calculator
 Created with CodeSandbox

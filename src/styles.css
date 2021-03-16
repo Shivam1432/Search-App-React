@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#search-app {
+  text-align: center;
+  width: 100%;
+  height: 570px;
+  background-color: lemonchiffon;
+}
+.searchbar {
+  background-color: lightgray;
+  padding: 20px 30px;
+}
+.lbl {
+  font-size: 40px;
+  font-weight: bold;
+}
+.ip {
+  height: 20px;
+  width: 250px;
+}
+.btn {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
